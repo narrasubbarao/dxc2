@@ -23,7 +23,7 @@
 			<scope>provided</scope>
 		</dependency>
   </dependencies>
-  <build>
+  <!--build>
     <finalName>web_insurence</finalName>
 	<profiles>
         <profile>
@@ -32,14 +32,14 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <!-- Optional URL to server. Default value is http://localhost:9000 -->
+                < Optional URL to server. Default value is http://localhost:9000 >
                 <sonar.host.url>
                   http://myserver:9000
                 </sonar.host.url>
             </properties>
         </profile>
      </profiles>
-  </build>
+  </build!-->
   <distributionManagement>
   <snapshotRepository>
     <id>dxc_1</id>
