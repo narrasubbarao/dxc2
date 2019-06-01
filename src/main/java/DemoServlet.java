@@ -14,4 +14,6 @@ pw.println("Welcome to servlet");
 pw.println("</body></html>");  
   
 pw.close();//closing the stream  
-}}  
+}} 
+{
+}
